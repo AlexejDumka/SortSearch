@@ -86,6 +86,10 @@ There is a method sorted() in Stream API. By default, elements are sorted in the
 
 ## Compiling and Running the Application
 
+### Prerequisites
+- Java 1.8 
+- [Apache Maven](https://maven.apache.org/) (for building and running the project)
+
 ```
 mvn compile
 mvn exec:java -Dexec.mainClass="com.demo.SortSearchApplication"
