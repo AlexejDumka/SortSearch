@@ -5,9 +5,9 @@
 ## Searching Algorithms
 Searching algorithms can be divided into two main categories depending on the type of data structure and the type of search:
 
-: Sequential Search: Sequential (or linear) search algorithms traverse each element in a list or array one by one, checking each one until the desired element is found or the end of the data structure is reached. They are best suited for unsorted or unordered data. Example: Linear Search.
+* Sequential Search: Sequential (or linear) search algorithms traverse each element in a list or array one by one, checking each one until the desired element is found or the end of the data structure is reached. They are best suited for unsorted or unordered data. Example: Linear Search.
 
-: Interval Search: Interval search algorithms are designed to work efficiently on sorted data structures. They use a divide-and-conquer approach to repeatedly target the center of the data structure, narrowing down the search space by half each time. These algorithms are much more efficient than sequential search, especially for large datasets. Example: Binary Search.
+* Interval Search: Interval search algorithms are designed to work efficiently on sorted data structures. They use a divide-and-conquer approach to repeatedly target the center of the data structure, narrowing down the search space by half each time. These algorithms are much more efficient than sequential search, especially for large datasets. Example: Binary Search.
 
 ***
 ### Linear Search
